@@ -1,17 +1,23 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Sans, IBM_Plex_Sans_Thai } from "next/font/google";
 import "./globals.css";
-import Navbar from "@/containers/NavBar/Navbar";
+import { Footer, Navbar, type NavbarUser } from "@/containers";
 
 const ibmPlexSans = IBM_Plex_Sans({
   variable: "--font-ibm-plex-sans",
-  weight: ["300", "400", "600"],
+  weight: ["300", "400", "500", "600", "700"],
 });
 
 const ibmPlexSansThai = IBM_Plex_Sans_Thai({
   variable: "--font-ibm-plex-sans-thai",
-  weight: ["300", "400", "600"],
+  weight: ["300", "400", "500", "600", "700"],
 });
+
+// TODO: replace with the real session once auth is wired up.
+const mockUser: NavbarUser | null = {
+  name: "Mali Wong",
+  email: "mali.wong@email.com",
+};
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -26,7 +32,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     >
       <body className="min-h-full flex flex-col">
         <Navbar />
-        {children}
+        <div className="flex flex-1 flex-col">{children}</div>
+        <Footer />
       </body>
     </html>
   );

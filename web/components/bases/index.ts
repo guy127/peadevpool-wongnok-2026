@@ -7,6 +7,7 @@ import DropdownMenu, {
   DropdownMenuGroup,
   DropdownMenuLabel,
   DropdownMenuItem,
+  DropdownMenuLinkItem,
   DropdownMenuSeparator,
   DropdownMenuProps,
   DropdownMenuTriggerProps,
@@ -14,6 +15,7 @@ import DropdownMenu, {
   DropdownMenuGroupProps,
   DropdownMenuLabelProps,
   DropdownMenuItemProps,
+  DropdownMenuLinkItemProps,
   DropdownMenuSeparatorProps,
 } from "./DropdownMenu";
 import Link, { LinkProps } from "./Link";
@@ -34,6 +36,7 @@ export type {
   DropdownMenuGroupProps,
   DropdownMenuLabelProps,
   DropdownMenuItemProps,
+  DropdownMenuLinkItemProps,
   DropdownMenuSeparatorProps,
 };
 export {
@@ -43,6 +46,7 @@ export {
   DropdownMenuGroup,
   DropdownMenuLabel,
   DropdownMenuItem,
+  DropdownMenuLinkItem,
   DropdownMenuSeparator,
 };
 

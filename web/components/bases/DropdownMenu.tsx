@@ -66,16 +66,35 @@ function DropdownMenuLabel({ className, ...props }: DropdownMenuLabelProps) {
   );
 }
 
+const dropdownMenuItemClassName =
+  "wongnok-text-sm flex cursor-pointer items-center gap-2.25 rounded-md px-2.5 py-2.25 text-secondary-foreground outline-none select-none data-highlighted:bg-muted data-disabled:pointer-events-none data-disabled:text-muted-foreground/50";
+
 export type DropdownMenuItemProps = MenuPrimitive.Item.Props;
 
 function DropdownMenuItem({ className, ...props }: DropdownMenuItemProps) {
   return (
     <MenuPrimitive.Item
       data-slot="dropdown-menu-item"
-      className={cn(
-        "wongnok-text-sm flex cursor-pointer items-center gap-2.25 rounded-md px-2.5 py-2.25 text-secondary-foreground outline-none select-none data-highlighted:bg-muted data-disabled:pointer-events-none data-disabled:text-muted-foreground/50",
-        className,
-      )}
+      className={cn(dropdownMenuItemClassName, className)}
+      {...props}
+    />
+  );
+}
+
+export type DropdownMenuLinkItemProps = MenuPrimitive.LinkItem.Props;
+
+/**
+ * Navigates instead of running an action. Pass a router link through
+ * `render`, e.g. `render={<NextLink href="/recipes" />}`.
+ */
+function DropdownMenuLinkItem({
+  className,
+  ...props
+}: DropdownMenuLinkItemProps) {
+  return (
+    <MenuPrimitive.LinkItem
+      data-slot="dropdown-menu-link-item"
+      className={cn(dropdownMenuItemClassName, className)}
       {...props}
     />
   );
@@ -104,5 +123,6 @@ export {
   DropdownMenuGroup,
   DropdownMenuLabel,
   DropdownMenuItem,
+  DropdownMenuLinkItem,
   DropdownMenuSeparator,
 };
