@@ -6,7 +6,9 @@ import ShowcaseButton from "./_containers/ShowcaseButton";
 import ShowcaseLink from "./_containers/ShowcaseLink";
 import ShowcaseMenu from "./_containers/ShowcaseMenu";
 import ShowcasePagination from "./_containers/ShowcasePagination";
+import ShowcaseRadio from "./_containers/ShowcaseRadio";
 import ShowcaseRecipeCard from "./_containers/ShowcaseRecipeCard";
+import ShowcaseSelect from "./_containers/ShowcaseSelect";
 import ShowcaseTextarea from "./_containers/ShowcaseTextarea";
 import ShowcaseTextField from "./_containers/ShowcaseTextField";
 
@@ -23,6 +25,8 @@ const SECTIONS = [
   { href: "#link", label: "Link" },
   { href: "#text-field", label: "Text field" },
   { href: "#textarea", label: "Textarea" },
+  { href: "#radio", label: "Radio" },
+  { href: "#select", label: "Select" },
   { href: "#pagination", label: "Pagination" },
   { href: "#recipe-card", label: "Recipe card" },
 ];
@@ -59,6 +63,8 @@ const ComponentLibraries = () => {
         <ShowcaseLink />
         <ShowcaseTextField />
         <ShowcaseTextarea />
+        <ShowcaseRadio />
+        <ShowcaseSelect />
         <ShowcasePagination />
         <ShowcaseRecipeCard />
       </main>

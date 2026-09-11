@@ -34,6 +34,8 @@ import Pagination, {
   PaginationNextProps,
   PaginationEllipsisProps,
 } from "./Pagination";
+import Select, { SelectProps, SelectOption } from "./Select";
+import Radio, { RadioGroup, RadioProps, RadioGroupProps } from "./Radio";
 import TextField, { TextFieldProps } from "./TextField";
 import Textarea, { TextareaProps } from "./Textarea";
 
@@ -88,6 +90,12 @@ export {
   PaginationNext,
   PaginationEllipsis,
 };
+
+export type { SelectProps, SelectOption };
+export { Select };
+
+export type { RadioProps, RadioGroupProps };
+export { Radio, RadioGroup };
 
 export type { TextareaProps };
 export { Textarea };
