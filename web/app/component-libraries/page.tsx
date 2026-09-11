@@ -5,6 +5,7 @@ import ShowcaseBadge from "./_containers/ShowcaseBadge";
 import ShowcaseButton from "./_containers/ShowcaseButton";
 import ShowcaseLink from "./_containers/ShowcaseLink";
 import ShowcaseMenu from "./_containers/ShowcaseMenu";
+import ShowcasePagination from "./_containers/ShowcasePagination";
 import ShowcaseRecipeCard from "./_containers/ShowcaseRecipeCard";
 
 export const metadata: Metadata = {
@@ -18,6 +19,7 @@ const SECTIONS = [
   { href: "#avatar", label: "Avatar" },
   { href: "#menu", label: "Dropdown menu" },
   { href: "#link", label: "Link" },
+  { href: "#pagination", label: "Pagination" },
   { href: "#recipe-card", label: "Recipe card" },
 ];
 
@@ -51,6 +53,7 @@ const ComponentLibraries = () => {
         <ShowcaseAvatar />
         <ShowcaseMenu />
         <ShowcaseLink />
+        <ShowcasePagination />
         <ShowcaseRecipeCard />
       </main>
     </div>

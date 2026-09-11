@@ -19,6 +19,21 @@ import DropdownMenu, {
   DropdownMenuSeparatorProps,
 } from "./DropdownMenu";
 import Link, { LinkProps } from "./Link";
+import Pagination, {
+  PaginationContent,
+  PaginationItem,
+  PaginationLink,
+  PaginationPrevious,
+  PaginationNext,
+  PaginationEllipsis,
+  PaginationProps,
+  PaginationContentProps,
+  PaginationItemProps,
+  PaginationLinkProps,
+  PaginationPreviousProps,
+  PaginationNextProps,
+  PaginationEllipsisProps,
+} from "./Pagination";
 
 export type { AvatarProps, AvatarGroupProps };
 export { Avatar, AvatarGroup };
@@ -52,3 +67,22 @@ export {
 
 export type { LinkProps };
 export { Link };
+
+export type {
+  PaginationProps,
+  PaginationContentProps,
+  PaginationItemProps,
+  PaginationLinkProps,
+  PaginationPreviousProps,
+  PaginationNextProps,
+  PaginationEllipsisProps,
+};
+export {
+  Pagination,
+  PaginationContent,
+  PaginationItem,
+  PaginationLink,
+  PaginationPrevious,
+  PaginationNext,
+  PaginationEllipsis,
+};

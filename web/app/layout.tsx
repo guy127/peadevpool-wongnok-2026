@@ -33,7 +33,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full flex flex-col">
         <Navbar />
         <div className="flex flex-1 flex-col">{children}</div>
-        <Footer />
+        {/* <Footer /> */}
       </body>
     </html>
   );

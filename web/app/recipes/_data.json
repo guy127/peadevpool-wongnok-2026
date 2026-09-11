@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Classic Spaghetti Carbonara",
+    "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_marco",
+      "name": "Marco Rossi"
+    },
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1240
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Homemade Beef Wellington",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "level": "HARD",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_gordon",
+      "name": "Gordon Miller"
+    },
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 850
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Creamy Mushroom Risotto",
+    "imageUrl": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9",
+    "level": "MEDIUM",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_sophia",
+      "name": "Sophia Chen"
+    },
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 420
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Avocado Toast with Poached Egg",
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_emma",
+      "name": "Emma Watson"
+    },
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 310
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Thai Green Chicken Curry",
+    "imageUrl": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd",
+    "level": "MEDIUM",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_somi",
+      "name": "Apinya Somchai"
+    },
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 980
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "French Macarons",
+    "imageUrl": "https://images.unsplash.com/photo-1569864358642-9d1684040f43",
+    "level": "HARD",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_pierre",
+      "name": "Pierre Dubois"
+    },
+    "rating": {
+      "rating": 4.4,
+      "ratingCount": 512
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Greek Salad with Feta Cheese",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_elena",
+      "name": "Elena Papadopoulos"
+    },
+    "rating": {
+      "rating": 4.3,
+      "ratingCount": 195
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Japanese Tonkotsu Ramen",
+    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624",
+    "level": "HARD",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_kenji",
+      "name": "Kenji Sato"
+    },
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1560
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Grilled Chicken Caesar Salad",
+    "imageUrl": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_sarah",
+      "name": "Sarah Jenkins"
+    },
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 640
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Traditional Beef Pho",
+    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43",
+    "level": "MEDIUM",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_minh",
+      "name": "Minh Nguyen"
+    },
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 780
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Classic Margherita Pizza",
+    "imageUrl": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3",
+    "level": "MEDIUM",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_luigi",
+      "name": "Luigi Moretti"
+    },
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 2100
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Fudgy Chocolate Brownies",
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_baker",
+      "name": "Chloe Bennett"
+    },
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1890
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Spanish Seafood Paella",
+    "imageUrl": "https://images.unsplash.com/photo-1534080564583-6be75777b70a",
+    "level": "HARD",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_carlos",
+      "name": "Carlos Gomez"
+    },
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 340
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Honey Garlic Glazed Salmon",
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_david",
+      "name": "David Kim"
+    },
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 920
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Mexican Birria Tacos",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47",
+    "level": "MEDIUM",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_mateo",
+      "name": "Mateo Hernandez"
+    },
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1450
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Creamy Tomato Basil Soup",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_anna",
+      "name": "Anna Schmidt"
+    },
+    "rating": {
+      "rating": 4.4,
+      "ratingCount": 230
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "imageUrl": "https://images.unsplash.com/photo-1565557623262-b51c2513a641",
+    "level": "MEDIUM",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_rohan",
+      "name": "Rohan Patel"
+    },
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1670
+    },
+    "isFavorite": true
+  },
+  {
+    "name": "Classic Croissant",
+    "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+    "level": "HARD",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_claire",
+      "name": "Claire Martin"
+    },
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 610
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Teriyaki Chicken Bowl",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "level": "EASY",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_taro",
+      "name": "Taro Tanaka"
+    },
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 480
+    },
+    "isFavorite": false
+  },
+  {
+    "name": "Classic Egg Tarts",
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "level": "MEDIUM",
+    "owner": {
+      "imageUrl": "https://i.pravatar.cc/150?u=chef_mei",
+      "name": "Mei Ling"
+    },
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 390
+    },
+    "isFavorite": true
+  }
+]

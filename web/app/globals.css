@@ -140,6 +140,7 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-family: var(--font-ibm-plex-sans), var(--font-ibm-plex-sans-thai);
   }
   html {
     @apply font-sans;
