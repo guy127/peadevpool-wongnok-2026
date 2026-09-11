@@ -34,6 +34,8 @@ import Pagination, {
   PaginationNextProps,
   PaginationEllipsisProps,
 } from "./Pagination";
+import TextField, { TextFieldProps } from "./TextField";
+import Textarea, { TextareaProps } from "./Textarea";
 
 export type { AvatarProps, AvatarGroupProps };
 export { Avatar, AvatarGroup };
@@ -86,3 +88,9 @@ export {
   PaginationNext,
   PaginationEllipsis,
 };
+
+export type { TextareaProps };
+export { Textarea };
+
+export type { TextFieldProps };
+export { TextField };

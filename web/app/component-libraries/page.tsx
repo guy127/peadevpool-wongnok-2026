@@ -7,6 +7,8 @@ import ShowcaseLink from "./_containers/ShowcaseLink";
 import ShowcaseMenu from "./_containers/ShowcaseMenu";
 import ShowcasePagination from "./_containers/ShowcasePagination";
 import ShowcaseRecipeCard from "./_containers/ShowcaseRecipeCard";
+import ShowcaseTextarea from "./_containers/ShowcaseTextarea";
+import ShowcaseTextField from "./_containers/ShowcaseTextField";
 
 export const metadata: Metadata = {
   title: "Component Libraries",
@@ -19,6 +21,8 @@ const SECTIONS = [
   { href: "#avatar", label: "Avatar" },
   { href: "#menu", label: "Dropdown menu" },
   { href: "#link", label: "Link" },
+  { href: "#text-field", label: "Text field" },
+  { href: "#textarea", label: "Textarea" },
   { href: "#pagination", label: "Pagination" },
   { href: "#recipe-card", label: "Recipe card" },
 ];
@@ -53,6 +57,8 @@ const ComponentLibraries = () => {
         <ShowcaseAvatar />
         <ShowcaseMenu />
         <ShowcaseLink />
+        <ShowcaseTextField />
+        <ShowcaseTextarea />
         <ShowcasePagination />
         <ShowcaseRecipeCard />
       </main>
