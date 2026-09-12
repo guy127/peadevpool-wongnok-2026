@@ -1,37 +1,21 @@
 import { Button, TextField } from "@/components/bases";
 import { RecipeCreationFormValues } from "@/types/FormValues/recipeCreationForm";
 import { XIcon } from "lucide-react";
-import { ChangeEvent, useState } from "react";
 import { useFieldArray, useFormContext } from "react-hook-form";
 
 const RecipeIngredientForm = () => {
-  const { control } = useFormContext<RecipeCreationFormValues>();
+  const { register, control } = useFormContext<RecipeCreationFormValues>();
   const { fields, append, remove } = useFieldArray({
     name: "ingredients",
     control: control,
   });
-  const [ingredients, setIngredients] = useState<string[]>([""]);
 
   const handleAddIngredient = () => {
-    setIngredients((prev) => [...prev, ""]);
+    append({ description: "" });
   };
 
   const handleRemoveIngredient = (index: number) => {
-    let remainIngredients = [];
-    const startIngredients = ingredients.slice(0, index);
-    const endIngredients = ingredients.slice(index + 1);
-    remainIngredients = [...startIngredients, ...endIngredients];
-    setIngredients(remainIngredients);
-  };
-
-  const handleIngredientChange = (
-    event: ChangeEvent<HTMLInputElement, HTMLInputElement>,
-    index: number,
-  ) => {
-    const value = event.target.value;
-    const newIngredientValues = [...ingredients];
-    newIngredientValues[index] = value;
-    setIngredients(newIngredientValues);
+    remove(index);
   };
 
   return (
@@ -49,11 +33,9 @@ const RecipeIngredientForm = () => {
               </p>
             </div>
             <TextField
-              name={`ingredient-${index + 1}`}
+              {...register(`ingredients.${index}.description`)}
               placeholder={"e.g. 2 tbsp fish sauce"}
               className="w-full"
-              value={field?.description ?? ""}
-              onChange={(event) => handleIngredientChange(event, index)}
             />
             <Button
               type={"button"}

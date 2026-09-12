@@ -10,7 +10,11 @@ import { RecipeCreationFormValues } from "@/types/FormValues/recipeCreationForm"
 
 const RecipeCreationPage = () => {
   const methods = useForm<RecipeCreationFormValues>({
-    defaultValues: { time: "JUST_MINUTES" },
+    defaultValues: {
+      level: "EASY",
+      time: "JUST_MINUTES",
+      ingredients: [{ description: "" }],
+    },
   });
 
   const handleSubmit = (data: unknown) => {
