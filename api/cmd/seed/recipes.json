@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Classic Spaghetti Carbonara",
+    "description": "A traditional Roman pasta dish made with crispy guanciale, egg yolks, Pecorino Romano, and freshly cracked black pepper.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3",
+    "level": "EASY",
+    "ingredients": [
+      "200g Spaghetti",
+      "100g Guanciale or Pancetta",
+      "2 large Egg yolks",
+      "1 whole Egg",
+      "50g Pecorino Romano cheese",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "instruction": [
+      "Bring a large pot of salted water to a boil and cook spaghetti until al dente.",
+      "Crisp the diced guanciale in a skillet over medium heat until golden brown.",
+      "Whisk together egg yolks, whole egg, grated Pecorino Romano, and black pepper in a bowl.",
+      "Drain pasta, reserving 1/2 cup of pasta water.",
+      "Combine hot pasta with guanciale, remove from heat, and quickly stir in egg mixture to create a creamy sauce, adding pasta water as needed."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1240
+    }
+  },
+  {
+    "name": "Homemade Beef Wellington",
+    "description": "Tender beef tenderloin coated with mushroom duxelles and prosciutto, wrapped in buttery, flaky puff pastry.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "level": "HARD",
+    "ingredients": [
+      "1kg Beef tenderloin center-cut",
+      "500g Wild mushrooms",
+      "8 slices Prosciutto",
+      "500g Puff pastry sheet",
+      "2 tbsp English mustard",
+      "2 Egg yolks for egg wash",
+      "Olive oil",
+      "Salt and pepper"
+    ],
+    "instruction": [
+      "Sear beef tenderloin on high heat on all sides, then brush with English mustard.",
+      "Finely chop mushrooms and cook in a dry pan until all moisture evaporates to form a duxelles.",
+      "Lay out plastic wrap, arrange prosciutto, spread mushroom duxelles, and wrap tightly around the beef. Chill for 15 minutes.",
+      "Roll out puff pastry, wrap the beef log inside, brush with egg wash, and score top lightly.",
+      "Bake at 200°C (400°F) for 25-30 minutes until golden brown and internal temp reaches 54°C (130°F)."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 850
+    }
+  },
+  {
+    "name": "Creamy Mushroom Risotto",
+    "description": "Rich Arborio rice slowly simmered in flavorful broth with sautéed cremini mushrooms, white wine, and Parmesan.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1.5 cups Arborio rice",
+      "300g Cremini mushrooms sliced",
+      "4 cups Vegetable or Chicken broth warm",
+      "1/2 cup Dry white wine",
+      "1 medium Shallot finely chopped",
+      "2 cloves Garlic minced",
+      "1/2 cup Parmesan cheese grated",
+      "2 tbsp Butter",
+      "2 tbsp Olive oil"
+    ],
+    "instruction": [
+      "Sauté mushrooms in olive oil until golden, then set aside.",
+      "In the same pot, sauté shallots and garlic until fragrant, then toast Arborio rice for 2 minutes.",
+      "Deglaze with white wine and simmer until absorbed.",
+      "Add warm broth one ladle at a time, stirring constantly until rice is tender and creamy.",
+      "Stir in mushrooms, butter, and Parmesan cheese before serving hot."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 420
+    }
+  },
+  {
+    "name": "Avocado Toast with Poached Egg",
+    "description": "Crispy sourdough toast topped with creamy mashed avocado, a perfectly runny poached egg, and chili flakes.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
+    "level": "EASY",
+    "ingredients": [
+      "2 slices Sourdough bread",
+      "1 ripe Avocado",
+      "2 fresh Eggs",
+      "1 tbsp Lemon juice",
+      "1 tbsp Vinegar",
+      "Red pepper flakes",
+      "Salt and black pepper"
+    ],
+    "instruction": [
+      "Toast sourdough slices until golden and crisp.",
+      "Mash avocado in a bowl with lemon juice, salt, and pepper.",
+      "Bring water to a gentle simmer with vinegar, swirl to create a whirlpool, and slide in eggs to poach for 3 minutes.",
+      "Spread avocado over toast, top with poached egg, and sprinkle with red pepper flakes."
+    ],
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 310
+    }
+  },
+  {
+    "name": "Thai Green Chicken Curry",
+    "description": "A fragrant, spicy Thai curry packed with tender chicken slices, bamboo shoots, Thai basil, and rich coconut milk.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd",
+    "level": "MEDIUM",
+    "ingredients": [
+      "400g Chicken breast cut into bite-size pieces",
+      "2 tbsp Green curry paste",
+      "400ml Coconut milk",
+      "1/2 cup Bamboo shoots sliced",
+      "1/2 cup Thai eggplants quartered",
+      "2 tbsp Fish sauce",
+      "1 tbsp Palm sugar",
+      "1 cup Fresh Thai basil leaves",
+      "3 Kaffir lime leaves torn"
+    ],
+    "instruction": [
+      "Heat 1/4 cup of coconut milk in a pot until oil separates, then stir-fry green curry paste until fragrant.",
+      "Add chicken slices and cook until no longer pink on the outside.",
+      "Pour in remaining coconut milk and bring to a gentle simmer.",
+      "Add bamboo shoots, eggplants, kaffir lime leaves, fish sauce, and palm sugar; cook for 10 minutes.",
+      "Stir in fresh Thai basil leaves right before turning off the heat."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 980
+    }
+  },
+  {
+    "name": "French Macarons",
+    "description": "Delicate almond meringue sandwich cookies filled with smooth chocolate ganache.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1569864358642-9d1684040f43",
+    "level": "HARD",
+    "ingredients": [
+      "100g Fine almond flour",
+      "100g Powdered sugar",
+      "75g Egg whites room temperature",
+      "100g Granulated sugar",
+      "Gel food coloring",
+      "100g Dark chocolate",
+      "100ml Heavy cream"
+    ],
+    "instruction": [
+      "Sift almond flour and powdered sugar together twice.",
+      "Whip egg whites while gradually adding granulated sugar until stiff, glossy peaks form.",
+      "Fold dry ingredients into meringue using the macaronage technique until batter falls in ribbon test.",
+      "Pipe rounds onto baking sheet lined with silicone mat, tap tray, and rest 30-45 minutes until skin forms.",
+      "Bake at 150°C (300°F) for 15 minutes, cool completely, and sandwich with dark chocolate ganache."
+    ],
+    "rating": {
+      "rating": 4.4,
+      "ratingCount": 512
+    }
+  },
+  {
+    "name": "Greek Salad with Feta",
+    "description": "Crisp cucumbers, ripe tomatoes, red onions, Kalamata olives, and a thick block of Greek feta cheese.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999",
+    "level": "EASY",
+    "ingredients": [
+      "3 ripe Tomatoes cut into wedges",
+      "1 English cucumber sliced",
+      "1/2 Red onion thinly sliced",
+      "1/2 cup Kalamata olives",
+      "200g Greek Feta cheese",
+      "3 tbsp Extra virgin olive oil",
+      "1 tbsp Red wine vinegar",
+      "1 tsp Dried oregano"
+    ],
+    "instruction": [
+      "Combine tomatoes, cucumber, red onion, and Kalamata olives in a salad bowl.",
+      "Drizzle extra virgin olive oil and red wine vinegar over the vegetables.",
+      "Place a slice of feta cheese on top of the salad.",
+      "Sprinkle generously with dried oregano and serve chilled."
+    ],
+    "rating": {
+      "rating": 4.3,
+      "ratingCount": 195
+    }
+  },
+  {
+    "name": "Japanese Tonkotsu Ramen",
+    "description": "Deeply flavorful pork bone broth served with springy ramen noodles, tender chashu pork, and soft-boiled marinated egg.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624",
+    "level": "HARD",
+    "ingredients": [
+      "1kg Pork neck bones and trotters",
+      "4 portions Fresh ramen noodles",
+      "4 slices Chashu pork belly",
+      "2 Soft-boiled ajitsuke tamago eggs",
+      "2 tbsp Shoyu ramen tare base",
+      "Green onions chopped",
+      "Nori seaweed sheets",
+      "Black garlic oil (Mayu)"
+    ],
+    "instruction": [
+      "Boil pork bones vigorously for 8-12 hours until broth turns milky white and emulsified.",
+      "Prepare tare season sauce and place 2 tbsp in the bottom of serving bowls.",
+      "Boil ramen noodles for 1-2 minutes until al dente.",
+      "Pour hot tonkotsu broth into bowls with tare, add strained noodles.",
+      "Top with chashu pork slices, halved soft-boiled eggs, green onions, and nori."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1560
+    }
+  },
+  {
+    "name": "Classic Caesar Salad with Grilled Chicken",
+    "description": "Crisp romaine lettuce tossed in homemade Caesar dressing, topped with parmesan shavings, garlic croutons, and grilled chicken breast.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9",
+    "level": "EASY",
+    "ingredients": [
+      "2 Grilled chicken breasts sliced",
+      "1 large head Romaine lettuce chopped",
+      "1/2 cup Parmesan cheese shaved",
+      "1 cup Garlic croutons",
+      "3 tbsp Mayonnaise",
+      "1 tsp Anchovy paste",
+      "1 clove Garlic minced",
+      "1 tbsp Lemon juice",
+      "1 tsp Dijon mustard"
+    ],
+    "instruction": [
+      "Whisk mayonnaise, anchovy paste, garlic, lemon juice, and Dijon mustard for the dressing.",
+      "Grill chicken breasts on medium-high heat until internal temp reaches 74°C (165°F), then slice.",
+      "Toss chopped romaine lettuce with dressing in a large bowl.",
+      "Top with grilled chicken slices, croutons, and shaved parmesan cheese."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 640
+    }
+  },
+  {
+    "name": "Vietnamese Beef Pho",
+    "description": "A comforting Vietnamese noodle soup featuring aromatic beef bone broth simmered with cinnamon, star anise, and fresh herbs.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1kg Beef marrow bones",
+      "200g Thinly sliced raw beef sirloin",
+      "1 pack Flat rice pho noodles",
+      "1 Onion charred",
+      "1 piece Ginger charred",
+      "2 Star anise pods",
+      "1 Cinnamon stick",
+      "Fresh Thai basil, cilantro, bean sprouts, lime wedges"
+    ],
+    "instruction": [
+      "Parboil bones for 10 minutes, rinse clean, then simmer with charred onion, ginger, and toasted spices for 4-6 hours.",
+      "Season broth with fish sauce and rock sugar.",
+      "Cook flat rice noodles and divide into bowls.",
+      "Lay raw sirloin slices over hot noodles, pour scalding broth over to cook beef instantly.",
+      "Serve with fresh bean sprouts, Thai basil, cilantro, and lime wedges."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 780
+    }
+  },
+  {
+    "name": "Classic Margherita Pizza",
+    "description": "Simple Neapolitan-style pizza topped with San Marzano tomato sauce, fresh mozzarella cheese, and sweet basil leaves.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1 Pizza dough ball",
+      "1/2 cup San Marzano tomato sauce",
+      "125g Fresh Mozzarella cheese torn",
+      "Fresh basil leaves",
+      "1 tbsp Extra virgin olive oil",
+      "Pinch of Sea salt"
+    ],
+    "instruction": [
+      "Preheat oven with pizza stone to maximum temperature (250°C/500°F or higher).",
+      "Stretch dough manually into a 12-inch round on a floured surface.",
+      "Spread tomato sauce lightly over dough, leaving a border for crust.",
+      "Distribute fresh mozzarella pieces across sauce.",
+      "Bake for 8-12 minutes until crust is blistered, top with fresh basil and olive oil."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 2100
+    }
+  },
+  {
+    "name": "Fudgy Chocolate Brownies",
+    "description": "Decadent, rich chocolate brownies with crinkly tops and gooey fudgy centers.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c",
+    "level": "EASY",
+    "ingredients": [
+      "200g Dark chocolate chips",
+      "150g Unsalted butter melted",
+      "1 cup Granulated sugar",
+      "3 large Eggs",
+      "3/4 cup All-purpose flour",
+      "1/4 cup Unsweetened cocoa powder",
+      "1/2 tsp Salt"
+    ],
+    "instruction": [
+      "Melt butter and dark chocolate together until smooth.",
+      "Whisk eggs and sugar vigorously for 2 minutes until pale and frothy.",
+      "Fold melted chocolate mixture into egg mixture.",
+      "Sift in flour, cocoa powder, and salt; gently fold until just combined.",
+      "Pour into lined 8x8 inch pan and bake at 175°C (350°F) for 22-25 minutes."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1890
+    }
+  },
+  {
+    "name": "Spanish Seafood Paella",
+    "description": "Traditional Spanish rice dish loaded with saffron, shrimp, mussels, squid, and bell peppers.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1534080564583-6be75777b70a",
+    "level": "HARD",
+    "ingredients": [
+      "2 cups Bomba paella rice",
+      "150g Squid rings",
+      "8 Large Shrimp",
+      "8 Fresh Mussels",
+      "1 pinch Saffron threads soaked in 1/4 cup warm water",
+      "4 cups Seafood stock warm",
+      "1 Red bell pepper diced",
+      "2 Tomatoes grated",
+      "Olive oil"
+    ],
+    "instruction": [
+      "Sauté shrimp and squid in olive oil in paella pan, then remove and set aside.",
+      "Cook red pepper and grated tomato in same pan to form sofrito.",
+      "Add Bomba rice, stir to coat in oil, then pour in seafood stock and saffron liquid.",
+      "Simmer uncovered without stirring for 18 minutes until rice absorbs liquid and bottom forms crust (socarrat).",
+      "Nestle seafood on top during last 5 minutes of cooking."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 340
+    }
+  },
+  {
+    "name": "Honey Garlic Glazed Salmon",
+    "description": "Pan-seared salmon fillets coated in a savory-sweet honey, soy sauce, and garlic glaze.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2",
+    "level": "EASY",
+    "ingredients": [
+      "2 Salmon fillets skin-on",
+      "3 tbsp Honey",
+      "2 tbsp Soy sauce",
+      "1 tbsp Lemon juice",
+      "3 cloves Garlic minced",
+      "1 tbsp Olive oil",
+      "Lemon slices and parsley for garnish"
+    ],
+    "instruction": [
+      "Whisk honey, soy sauce, lemon juice, and garlic in a small bowl.",
+      "Heat olive oil in pan over medium-high heat and sear salmon skin-side up for 3 minutes.",
+      "Flip salmon fillets and pour sauce into pan.",
+      "Baste salmon continuously with glaze as sauce reduces for another 3 minutes until thick."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 920
+    }
+  },
+  {
+    "name": "Mexican Birria Tacos",
+    "description": "Crispy corn tortillas dipped in chili oil, filled with tender shredded beef and melted cheese, served with consommé broth.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1kg Beef chuck roast",
+      "4 Dried Guajillo chilies seeds removed",
+      "2 Dried Ancho chilies seeds removed",
+      "1 head Garlic",
+      "1 tbsp Apple cider vinegar",
+      "12 Corn tortillas",
+      "2 cups Oaxaca cheese shredded",
+      "Chopped cilantro and white onion"
+    ],
+    "instruction": [
+      "Rehydrate dried chilies in hot water, then blend with garlic, vinegar, and spices to make sauce.",
+      "Braise beef in chili sauce and broth for 3-4 hours until shreddable; separate meat and reserve broth (consommé).",
+      "Dip corn tortillas in red oil from broth, lay on hot skillet.",
+      "Top with cheese and shredded beef, fold tacos, and fry until crisp.",
+      "Serve warm dipped in consommé broth with cilantro and onions."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1450
+    }
+  },
+  {
+    "name": "Creamy Tomato Basil Soup",
+    "description": "Smooth, comforting soup made from roasted tomatoes, garlic, heavy cream, and fresh basil.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+    "level": "EASY",
+    "ingredients": [
+      "1kg Roma tomatoes halved",
+      "1 head Garlic top cut off",
+      "1 Onion chopped",
+      "2 cups Vegetable stock",
+      "1/2 cup Heavy cream",
+      "1/2 cup Fresh basil leaves",
+      "2 tbsp Olive oil",
+      "Salt and pepper"
+    ],
+    "instruction": [
+      "Roast halved tomatoes and head of garlic drizzled with olive oil at 200°C (400°F) for 40 minutes.",
+      "Sauté onions in a pot until translucent.",
+      "Squeeze roasted garlic out of peel and add roasted tomatoes to pot with vegetable stock.",
+      "Blend mixture until completely smooth using an immersion blender.",
+      "Stir in heavy cream and fresh basil, season to taste, and simmer for 5 minutes."
+    ],
+    "rating": {
+      "rating": 4.4,
+      "ratingCount": 230
+    }
+  },
+  {
+    "name": "Indian Chicken Tikka Masala",
+    "description": "Marinated grilled chicken pieces cooked in a rich, spiced, creamy tomato curry sauce.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1565557623262-b51c2513a641",
+    "level": "MEDIUM",
+    "ingredients": [
+      "600g Chicken thighs bite-sized",
+      "1 cup Plain yogurt",
+      "2 tbsp Garam masala",
+      "1 tbsp Turmeric powder",
+      "1 Can (400g) Tomato puree",
+      "1/2 cup Heavy cream",
+      "1 large Onion diced",
+      "3 cloves Garlic minced",
+      "1 tbsp Ginger grated"
+    ],
+    "instruction": [
+      "Marinate chicken in yogurt, half the spices, garlic, and ginger for at least 30 minutes.",
+      "Sear marinated chicken in a pan until browned and set aside.",
+      "Sauté onions in same pan, add remaining spices, tomato puree, and simmer for 10 minutes.",
+      "Puree sauce until smooth, add heavy cream and cooked chicken.",
+      "Simmer for 15 minutes until sauce thickens and chicken is cooked through."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1670
+    }
+  },
+  {
+    "name": "Butter Croissant",
+    "description": "Flaky, buttery, laminated French pastry with light honeycomb interior structure.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+    "level": "HARD",
+    "ingredients": [
+      "500g Bread flour",
+      "250g High-fat European butter (for butter block)",
+      "60g Sugar",
+      "10g Instant yeast",
+      "10g Salt",
+      "140ml Cold water",
+      "140ml Cold milk",
+      "1 Egg for wash"
+    ],
+    "instruction": [
+      "Mix dough ingredients, knead briefly, and chill overnight.",
+      "Encase cold butter block inside dough envelope and perform 3 single envelope folds with chilling between folds.",
+      "Roll out laminated dough thin, cut into long triangles, and roll into crescent shapes.",
+      "Proof croissants at 24°C (75°F) for 2.5 hours until puffy and jiggly.",
+      "Brush with egg wash and bake at 200°C (400°F) for 18-20 minutes."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 610
+    }
+  },
+  {
+    "name": "Chicken Teriyaki Rice Bowl",
+    "description": "Juicy pan-seared chicken glazed with homemade sweet teriyaki sauce, served over steamed rice and broccoli.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "level": "EASY",
+    "ingredients": [
+      "400g Chicken thighs boneless cut",
+      "1/4 cup Soy sauce",
+      "2 tbsp Mirin",
+      "2 tbsp Sake",
+      "1.5 tbsp Sugar",
+      "2 cups Steamed Japanese rice",
+      "1 cup Broccoli florets steamed",
+      "Sesame seeds"
+    ],
+    "instruction": [
+      "Combine soy sauce, mirin, sake, and sugar in a cup to make teriyaki sauce.",
+      "Pan-fry chicken thighs skin-side down until crispy, then flip.",
+      "Pour teriyaki sauce into pan and simmer until reduced to a shiny syrup coating chicken.",
+      "Slice chicken and serve over steamed rice with broccoli, garnished with sesame seeds."
+    ],
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 480
+    }
+  },
+  {
+    "name": "Portuguese Egg Tarts (Pastéis de Nata)",
+    "description": "Crispy puff pastry shells filled with rich, caramelized egg custard.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1 Puff pastry sheet rolled into log",
+      "6 Egg yolks",
+      "1 cup Milk",
+      "1 cup Sugar",
+      "1/2 cup Water",
+      "1 Cinnamon stick",
+      "1 Lemon peel strip",
+      "2 tbsp All-purpose flour"
+    ],
+    "instruction": [
+      "Boil sugar and water with cinnamon stick and lemon peel to make simple syrup.",
+      "Whisk flour into cold milk, cook until thick, then whisk in hot syrup and egg yolks.",
+      "Slice puff pastry log into discs and press into muffin tins to form shell doughs.",
+      "Pour strained custard into pastry shells.",
+      "Bake at highest oven temp (260°C/500°F) for 12-15 minutes until pastry is crisp and custard top chars."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 390
+    }
+  },
+  {
+    "name": "Crispy Korean Fried Chicken",
+    "description": "Extra crunchy double-fried chicken wings tossed in a sweet, spicy, and sticky Gochujang glaze.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1kg Chicken wings",
+      "1/2 cup Potato starch",
+      "1/4 cup Flour",
+      "2 tbsp Gochujang (Korean chili paste)",
+      "2 tbsp Honey",
+      "2 tbsp Brown sugar",
+      "1 tbsp Soy sauce",
+      "Oil for deep frying"
+    ],
+    "instruction": [
+      "Coat chicken wings evenly with potato starch and flour blend.",
+      "Fry wings at 170°C (340°F) for 10 minutes, remove and drain.",
+      "Double fry at 190°C (375°F) for 3-5 minutes until golden brown and super crunchy.",
+      "Simmer Gochujang, honey, sugar, and soy sauce in skillet to thicken glaze.",
+      "Toss fried wings in sauce until fully coated."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1120
+    }
+  },
+  {
+    "name": "French Onion Soup",
+    "description": "Rich beef broth packed with caramelized onions, topped with a toasted baguette slice and melted Gruyère cheese.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1.5kg Yellow onions sliced thin",
+      "4 tbsp Butter",
+      "1/2 cup Dry white wine",
+      "6 cups Beef stock",
+      "1 Baguette sliced",
+      "2 cups Gruyère cheese grated",
+      "2 sprigs Fresh thyme"
+    ],
+    "instruction": [
+      "Caramelize onions slowly in butter over low heat for 45-60 minutes until deep brown.",
+      "Deglaze pot with white wine and cook for 2 minutes.",
+      "Add beef stock and fresh thyme; simmer uncovered for 20 minutes.",
+      "Ladle soup into oven-safe bowls, top with baguette slice and generous Gruyère.",
+      "Broil in oven for 3-5 minutes until cheese bubbles and browns."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 530
+    }
+  },
+  {
+    "name": "Classic Belgian Waffles",
+    "description": "Fluffy on the inside and crispy on the outside light waffle recipe served with maple syrup and berries.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1562376552-0d160a2f238d",
+    "level": "EASY",
+    "ingredients": [
+      "2 cups All-purpose flour",
+      "2 Egg whites whipped to stiff peaks",
+      "2 Egg yolks",
+      "1.5 cups Warm milk",
+      "1/2 cup Butter melted",
+      "1 tbsp Sugar",
+      "1 tbsp Baking powder",
+      "1 tsp Vanilla extract"
+    ],
+    "instruction": [
+      "Whisk flour, sugar, and baking powder together in a large bowl.",
+      "Mix milk, butter, egg yolks, and vanilla extract in a separate container.",
+      "Combine wet and dry ingredients until just mixed.",
+      "Gently fold in whipped egg whites.",
+      "Pour into hot waffle iron and cook until golden brown and crisp."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 870
+    }
+  },
+  {
+    "name": "Classic Beef Smash Burgers",
+    "description": "Thin, crispy-edged beef patties pressed on a piping hot flat top with American cheese in a brioche bun.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "level": "EASY",
+    "ingredients": [
+      "300g Ground beef (80/20 chuck)",
+      "2 slices American cheese",
+      "2 Brioche burger buns toasted",
+      "Burger sauce (Mayonnaise, Ketchup, Relish)",
+      "Dill pickle slices",
+      "Salt and pepper"
+    ],
+    "instruction": [
+      "Divide ground beef into two loose balls.",
+      "Place ball on screaming hot cast-iron skillet and smash completely flat with heavy spatula.",
+      "Season with salt and pepper; cook for 2 minutes until edges char.",
+      "Flip, immediately add cheese slice, and cook for another 1 minute.",
+      "Stack double patties inside toasted brioche bun spread with burger sauce and pickles."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1940
+    }
+  },
+  {
+    "name": "Matcha Green Tea Latte",
+    "description": "Smooth, earthy Japanese ceremonial grade matcha whisked with warm micro-foamed milk.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a",
+    "level": "EASY",
+    "ingredients": [
+      "1.5 tsp Ceremonial grade Matcha powder",
+      "60ml Warm water (80°C/175°F)",
+      "200ml Oat milk or Whole milk",
+      "1 tbsp Maple syrup or Honey"
+    ],
+    "instruction": [
+      "Sift matcha powder into a wide bowl to eliminate clumps.",
+      "Pour hot water over matcha and whisk in a 'W' motion using a bamboo whisk until frothy.",
+      "Heat and foam milk until silky.",
+      "Pour sweet syrup into a glass, add whisked matcha, and top with steamed warm milk."
+    ],
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 380
+    }
+  },
+  {
+    "name": "Greek Lamb Souvlaki",
+    "description": "Tender marinated lamb cubes grilled on skewers served with pita bread and cool tzatziki sauce.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd",
+    "level": "MEDIUM",
+    "ingredients": [
+      "600g Lamb shoulder cubed",
+      "3 tbsp Olive oil",
+      "2 tbsp Lemon juice",
+      "3 cloves Garlic minced",
+      "1 tbsp Dried oregano",
+      "Pita bread",
+      "Tzatziki sauce"
+    ],
+    "instruction": [
+      "Marinate lamb cubes with olive oil, lemon juice, garlic, and oregano for 2 hours.",
+      "Thread marinated lamb onto wooden skewers.",
+      "Grill on high heat for 8-10 minutes, turning regularly until nicely charred.",
+      "Serve hot inside warm pita bread topped with homemade tzatziki sauce."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 290
+    }
+  },
+  {
+    "name": "Classic Tiramisu",
+    "description": "Traditional Italian dessert of espresso-soaked ladyfingers layered with rich mascarpone cream and cocoa powder.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
+    "level": "EASY",
+    "ingredients": [
+      "24 Ladyfinger cookies (Savoiardi)",
+      "250g Mascarpone cheese",
+      "3 Egg yolks",
+      "1/2 cup Granulated sugar",
+      "1 cup Espresso coffee cooled",
+      "2 tbsp Dark rum",
+      "Unsweetened cocoa powder"
+    ],
+    "instruction": [
+      "Whip egg yolks and sugar until thick, then fold in softened mascarpone cheese.",
+      "Mix cooled espresso with dark rum.",
+      "Quickly dip ladyfingers into espresso mixture and lay in bottom of dish.",
+      "Spread half of mascarpone cream over ladyfingers.",
+      "Repeat second layer of ladyfingers and cream, dust generously with cocoa powder, and chill for 6 hours."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1620
+    }
+  },
+  {
+    "name": "Fresh Vietnamese Spring Rolls",
+    "description": "Refreshing rice paper rolls packed with cooked shrimp, pork, rice vermicelli, and crisp raw herbs.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb",
+    "level": "MEDIUM",
+    "ingredients": [
+      "8 Rice paper wrappers",
+      "16 Cooked shrimp halved",
+      "100g Rice vermicelli cooked",
+      "1 cup Lettuce leaves",
+      "1/2 cup Fresh mint leaves",
+      "1/2 cup Fresh cilantro",
+      "Peanut dipping sauce"
+    ],
+    "instruction": [
+      "Dip rice paper wrapper into warm water for 5 seconds until pliable.",
+      "Lay wrapper flat, add lettuce, cooked rice vermicelli, mint, and cilantro.",
+      "Place halved shrimp pink-side down near upper edge.",
+      "Fold sides in and roll tightly from bottom up.",
+      "Serve fresh with creamy peanut dipping sauce."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 440
+    }
+  },
+  {
+    "name": "Chicken and Waffles",
+    "description": "Crispy fried chicken placed over thick warm waffles, drizzled generously with spicy maple syrup.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1562376552-0d160a2f238d",
+    "level": "MEDIUM",
+    "ingredients": [
+      "4 Fried chicken tenders",
+      "2 Freshly baked waffles",
+      "1/2 cup Maple syrup",
+      "1 tsp Hot sauce",
+      "2 tbsp Butter",
+      "Powdered sugar"
+    ],
+    "instruction": [
+      "Prepare crisply fried seasoned chicken tenders.",
+      "Bake thick waffle batter until crisp.",
+      "Warm maple syrup mixed with hot sauce and melted butter in saucepan.",
+      "Plate crispy fried chicken on top of waffles, dust with powdered sugar, and drizzle with spicy maple syrup."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 710
+    }
+  },
+  {
+    "name": "Classic Beef Chili",
+    "description": "Hearty ground beef chili simmered with kidney beans, crushed tomatoes, and warm aromatic spices.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+    "level": "EASY",
+    "ingredients": [
+      "500g Ground beef",
+      "1 Can Kidney beans drained",
+      "1 Can Crushed tomatoes",
+      "1 Onion diced",
+      "2 tbsp Chili powder",
+      "1 tbsp Cumin",
+      "1 cup Beef broth",
+      "Cheddar cheese and sour cream"
+    ],
+    "instruction": [
+      "Brown ground beef and diced onion in heavy pot; drain excess fat.",
+      "Stir in chili powder and cumin; cook 1 minute until fragrant.",
+      "Add crushed tomatoes, kidney beans, and beef broth.",
+      "Simmer covered on low heat for 45 minutes.",
+      "Serve hot topped with shredded cheddar cheese and sour cream."
+    ],
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 980
+    }
+  },
+  {
+    "name": "Classic Falafel Wrap",
+    "description": "Crispy fried chickpea balls served inside warm flatbread with tahini, tomatoes, and pickled turnip.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1 Can Chickpeas drained and dried",
+      "1/2 cup Fresh parsley",
+      "3 cloves Garlic",
+      "1 tsp Cumin",
+      "2 tbsp Flour",
+      "Pita bread",
+      "Tahini sauce",
+      "Oil for frying"
+    ],
+    "instruction": [
+      "Pulse chickpeas, parsley, garlic, cumin, flour, salt, and pepper in food processor into coarse mixture.",
+      "Form mixture into small balls.",
+      "Deep fry falafels in hot oil at 180°C (350°F) for 4 minutes until dark golden brown.",
+      "Assemble inside pita flatbread with veggies and drizzle with tahini sauce."
+    ],
+    "rating": {
+      "rating": 4.4,
+      "ratingCount": 310
+    }
+  },
+  {
+    "name": "Japanese Pork Katsudon",
+    "description": "Crispy panko-breaded pork cutlet cooked with egg and onions in a sweet dashi broth over rice.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "level": "MEDIUM",
+    "ingredients": [
+      "2 Pork chops center-cut",
+      "1/2 cup Panko breadcrumbs",
+      "2 Eggs beaten",
+      "1/2 Onion sliced",
+      "1/2 cup Dashi stock",
+      "1.5 tbsp Soy sauce",
+      "1 tbsp Mirin",
+      "2 cups Steamed rice"
+    ],
+    "instruction": [
+      "Bread pork chops with flour, egg, and panko; deep fry until crispy tonkatsu.",
+      "Simmer sliced onion in dashi stock, soy sauce, and mirin in a small skillet.",
+      "Slice tonkatsu and place into skillet over onions.",
+      "Pour beaten eggs around pork, cover for 1 minute until eggs are soft set.",
+      "Slide entire mixture over a bowl of hot steamed rice."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1100
+    }
+  },
+  {
+    "name": "Garlic Butter Shrimp Scampi",
+    "description": "Succulent shrimp sautéed in rich garlic butter, white wine, and lemon juice tossed with linguine.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2",
+    "level": "EASY",
+    "ingredients": [
+      "400g Large shrimp peeled",
+      "200g Linguine pasta",
+      "4 tbsp Unsalted butter",
+      "4 cloves Garlic minced",
+      "1/4 cup Dry white wine",
+      "2 tbsp Lemon juice",
+      "Fresh parsley chopped"
+    ],
+    "instruction": [
+      "Boil linguine in salted water until al dente.",
+      "Melt butter in pan over medium heat, add minced garlic and sauté for 1 minute.",
+      "Add shrimp and white wine; cook for 2 minutes per side until pink.",
+      "Stir in lemon juice and cooked linguine.",
+      "Toss to coat thoroughly and garnish with chopped fresh parsley."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 830
+    }
+  },
+  {
+    "name": "Classic Cheesecake",
+    "description": "Rich, creamy New York style baked cheesecake on a graham cracker crust.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
+    "level": "HARD",
+    "ingredients": [
+      "900g Cream cheese softened",
+      "1 cup Granulated sugar",
+      "1 cup Sour cream",
+      "3 Eggs",
+      "1 tsp Vanilla extract",
+      "1.5 cups Graham cracker crumbs",
+      "4 tbsp Melted butter"
+    ],
+    "instruction": [
+      "Mix graham cracker crumbs with melted butter, press into springform pan, and bake for 10 minutes.",
+      "Beat cream cheese and sugar until smooth, then mix in sour cream and vanilla.",
+      "Add eggs one at a time on low speed.",
+      "Pour filling over crust and bake in water bath at 160°C (325°F) for 60-70 minutes.",
+      "Cool completely inside turned-off oven then chill 8 hours."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1420
+    }
+  },
+  {
+    "name": "Pad Thai with Shrimp",
+    "description": "Classic Thai stir-fried rice noodles with shrimp, tofu, crushed peanuts, bean sprouts, and tangy tamarind sauce.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1559847844-5315695dadae",
+    "level": "MEDIUM",
+    "ingredients": [
+      "200g Flat rice noodles soaked",
+      "12 Large shrimp",
+      "1/2 cup Pressed tofu cubed",
+      "2 Eggs",
+      "3 tbsp Tamarind paste",
+      "2 tbsp Fish sauce",
+      "2 tbsp Palm sugar",
+      "Bean sprouts, garlic chives, crushed peanuts"
+    ],
+    "instruction": [
+      "Whisk tamarind paste, fish sauce, and palm sugar together for sauce.",
+      "Sauté shrimp and tofu in hot wok, push to side, scramble eggs in wok.",
+      "Add soaked noodles and tamarind sauce; toss vigorously over high heat until noodles absorb liquid.",
+      "Stir in bean sprouts and garlic chives.",
+      "Serve hot sprinkled with crushed peanuts and lime."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1540
+    }
+  },
+  {
+    "name": "French Beef Bourguignon",
+    "description": "Rich French beef stew braised in red wine with bacon lardons, pearl onions, and mushrooms.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "level": "HARD",
+    "ingredients": [
+      "1kg Beef chuck cut into 2-inch cubes",
+      "150g Bacon lardons",
+      "1 bottle Pinot Noir red wine",
+      "2 cups Beef stock",
+      "200g Pearl onions peeled",
+      "200g Mushrooms halved",
+      "2 tbsp Tomato paste",
+      "Fresh thyme and bay leaves"
+    ],
+    "instruction": [
+      "Crisp bacon lardons in Dutch oven, then sear beef cubes in bacon fat until browned.",
+      "Stir in tomato paste, red wine, beef stock, thyme, and bay leaves.",
+      "Cover and braise in oven at 160°C (325°F) for 2.5 hours.",
+      "Sauté pearl onions and mushrooms in butter separately.",
+      "Stir vegetables into stew and simmer 15 additional minutes until beef is fork-tender."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 670
+    }
+  },
+  {
+    "name": "Greek Gyros Wrap",
+    "description": "Seasoned sliced pork gyro stuffed inside soft pita bread with tzatziki, tomato, onion, and French fries.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd",
+    "level": "EASY",
+    "ingredients": [
+      "400g Thinly sliced pork neck",
+      "2 tbsp Greek oregano",
+      "2 tbsp Red wine vinegar",
+      "Pita bread",
+      "1/2 cup Tzatziki sauce",
+      "1 Tomato sliced",
+      "1/2 Red onion sliced",
+      "1 cup Cooked French fries"
+    ],
+    "instruction": [
+      "Marinate pork slices with oregano, vinegar, olive oil, salt, and pepper.",
+      "Sear pork in hot skillet until browned and slightly charred at edges.",
+      "Warm pita bread flatbreads.",
+      "Spread tzatziki on pita, fill with cooked pork, tomato, red onion, and crispy fries.",
+      "Wrap tightly in parchment paper."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 490
+    }
+  },
+  {
+    "name": "Classic Lemon Tart",
+    "description": "Crispy shortcrust pastry shell filled with zesty, silky smooth lemon curd.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1 Sweet pastry tart shell blind-baked",
+      "4 Eggs",
+      "1/2 cup Lemon juice fresh",
+      "1 tbsp Lemon zest",
+      "3/4 cup Granulated sugar",
+      "100g Unsalted butter cubed"
+    ],
+    "instruction": [
+      "Whisk eggs, sugar, lemon juice, and zest in heatproof bowl over simmering water pot.",
+      "Cook continuously for 10-12 minutes until curd thickens.",
+      "Remove from heat and whisk in butter pieces one by one until smooth.",
+      "Pour lemon curd into pre-baked pastry shell.",
+      "Bake at 160°C (320°F) for 5 minutes to set curd, then chill 4 hours."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 380
+    }
+  },
+  {
+    "name": "Pesto Pasta with Cherry Tomatoes",
+    "description": "Al dente penne pasta tossed in vibrant homemade basil pesto with sweet roasted cherry tomatoes.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3",
+    "level": "EASY",
+    "ingredients": [
+      "250g Penne pasta",
+      "2 cups Fresh basil leaves",
+      "1/3 cup Pine nuts toasted",
+      "1/2 cup Parmesan cheese",
+      "1/2 cup Extra virgin olive oil",
+      "1 cup Cherry tomatoes halved",
+      "2 cloves Garlic"
+    ],
+    "instruction": [
+      "Boil penne pasta until al dente.",
+      "Blend fresh basil, toasted pine nuts, garlic, parmesan, and olive oil in processor until smooth pesto forms.",
+      "Sauté cherry tomatoes in pan with olive oil for 2 minutes until blistered.",
+      "Toss hot drained pasta with pesto sauce and blistered cherry tomatoes."
+    ],
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 610
+    }
+  },
+  {
+    "name": "Classic Buffalo Chicken Wings",
+    "description": "Crispy baked chicken wings tossed in a spicy, buttery Cayenne pepper hot sauce.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec",
+    "level": "EASY",
+    "ingredients": [
+      "1kg Chicken wingettes and drumettes",
+      "1 tbsp Baking powder",
+      "1/2 cup Frank's RedHot sauce",
+      "4 tbsp Melted butter",
+      "Celery sticks",
+      "Blue cheese dip"
+    ],
+    "instruction": [
+      "Toss wings with baking powder and salt; arrange on wire rack over baking sheet.",
+      "Bake at 220°C (425°F) for 45 minutes, flipping halfway until super crispy.",
+      "Whisk hot sauce and melted butter in bowl.",
+      "Toss crispy hot wings in buffalo sauce and serve immediately with celery and blue cheese dip."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1330
+    }
+  },
+  {
+    "name": "Japanese Chicken Katsudon Curry",
+    "description": "Crispy panko-breaded chicken cutlet served over rice with rich Japanese curry sauce.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "level": "MEDIUM",
+    "ingredients": [
+      "2 Chicken cutlets breaded and fried",
+      "2 Japanese curry roux blocks",
+      "1 Onion sliced",
+      "1 Carrot diced",
+      "1 Potato diced",
+      "2 cups Steamed rice"
+    ],
+    "instruction": [
+      "Boil onions, carrots, and potatoes in water for 15 minutes until tender.",
+      "Turn off heat, stir in curry roux blocks until dissolved, then simmer 5 minutes to thicken.",
+      "Fry breaded chicken cutlet until golden and slice.",
+      "Serve sliced cutlet next to steamed rice and ladle curry sauce over top."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 940
+    }
+  },
+  {
+    "name": "Classic Beef Lasagna",
+    "description": "Layered pasta bake with rich beef ragù sauce, creamy béchamel, and melted mozzarella cheese.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1612874742237-6526221588e3",
+    "level": "HARD",
+    "ingredients": [
+      "12 Lasagna sheet noodles",
+      "500g Ground beef",
+      "1 Can Crushed tomatoes",
+      "2 cups Béchamel white sauce",
+      "2 cups Mozzarella cheese shredded",
+      "1/2 cup Parmesan grated"
+    ],
+    "instruction": [
+      "Simmer ground beef and crushed tomatoes for 40 minutes to make meat sauce.",
+      "Spread thin layer of meat sauce in 9x13 baking dish.",
+      "Layer lasagna noodles, meat sauce, béchamel sauce, and mozzarella cheese.",
+      "Repeat layers 3 times, ending with mozzarella and parmesan on top.",
+      "Bake at 180°C (350°F) for 45 minutes until top is bubbly and brown."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1780
+    }
+  },
+  {
+    "name": "Acai Smoothie Bowl",
+    "description": "Thick blended frozen acai berry bowl topped with fresh banana slices, berries, chia seeds, and granola.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a",
+    "level": "EASY",
+    "ingredients": [
+      "100g Frozen acai berry packet",
+      "1 Frozen banana",
+      "1/2 cup Frozen blueberries",
+      "1/4 cup Almond milk",
+      "Granola",
+      "Fresh strawberries",
+      "Chia seeds"
+    ],
+    "instruction": [
+      "Blend frozen acai packet, frozen banana, frozen blueberries, and splash of almond milk until thick and smooth.",
+      "Scoop thick smoothie into a bowl.",
+      "Arrange fresh strawberries, banana slices, granola, and chia seeds neatly on top."
+    ],
+    "rating": {
+      "rating": 4.6,
+      "ratingCount": 510
+    }
+  },
+  {
+    "name": "Beef Gyudon Bowl",
+    "description": "Thinly sliced beef and onions simmered in a sweet soy dashi sauce served over hot rice.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "level": "EASY",
+    "ingredients": [
+      "300g Ribeye beef paper-thin sliced",
+      "1 Onion thinly sliced",
+      "1/2 cup Dashi stock",
+      "2 tbsp Soy sauce",
+      "2 tbsp Mirin",
+      "1 tbsp Sugar",
+      "2 cups Steamed Japanese rice"
+    ],
+    "instruction": [
+      "Bring dashi stock, soy sauce, mirin, and sugar to a boil in pan.",
+      "Add sliced onions and simmer for 3 minutes.",
+      "Add thin beef slices and cook for 2 minutes until beef changes color.",
+      "Ladle beef and sweet onion broth over bowls of warm steamed rice."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 890
+    }
+  },
+  {
+    "name": "Classic French Crepes",
+    "description": "Paper-thin sweet French pancakes filled with Nutella and fresh banana slices.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+    "level": "EASY",
+    "ingredients": [
+      "1 cup All-purpose flour",
+      "2 Eggs",
+      "1.25 cups Milk",
+      "2 tbsp Melted butter",
+      "1 tbsp Sugar",
+      "Nutella hazelnut spread",
+      "Sliced bananas"
+    ],
+    "instruction": [
+      "Whisk flour, eggs, milk, melted butter, and sugar until completely smooth batter; rest for 15 minutes.",
+      "Pour 1/4 cup batter into hot buttered non-stick skillet, swirling to cover bottom thinly.",
+      "Cook for 1 minute, flip, and cook 30 seconds.",
+      "Spread Nutella over crepe, add banana slices, and fold into triangles."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 1150
+    }
+  },
+  {
+    "name": "Classic Shepherd's Pie",
+    "description": "Savory minced lamb and vegetable filling topped with a golden, toasted mashed potato crust.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "level": "MEDIUM",
+    "ingredients": [
+      "500g Ground lamb",
+      "1 cup Peas and carrots diced",
+      "1 Onion diced",
+      "2 tbsp Tomato paste",
+      "1 cup Beef broth",
+      "4 cups Mashed potatoes",
+      "1/2 cup Cheddar cheese grated"
+    ],
+    "instruction": [
+      "Sauté ground lamb and onion until browned; drain fat.",
+      "Stir in tomato paste, peas, carrots, and beef broth; simmer 15 minutes until thick.",
+      "Transfer meat mixture into baking dish.",
+      "Spread creamy mashed potatoes evenly over meat and pipe edges; sprinkle cheese.",
+      "Bake at 200°C (400°F) for 25 minutes until potato peak edges brown crisp."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 730
+    }
+  },
+  {
+    "name": "Crispy Pork Carnitas Tacos",
+    "description": "Slow-cooked Mexican braised pork finished in high-heat skillet for crisp edges, served in corn tortillas.",
+    "duration": "long",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47",
+    "level": "MEDIUM",
+    "ingredients": [
+      "1.5kg Pork shoulder cut into blocks",
+      "1 Orange juice squeezed plus peel",
+      "1 Lime juice",
+      "4 cloves Garlic crushed",
+      "1 tsp Cumin",
+      "1 tsp Oregano",
+      "Corn tortillas",
+      "Diced onion and cilantro"
+    ],
+    "instruction": [
+      "Combine pork, orange juice, lime juice, garlic, cumin, oregano, and salt in Dutch oven.",
+      "Cover and slow cook at 150°C (300°F) for 3.5 hours until pork falls apart.",
+      "Shred pork, spread on baking sheet, and broil high for 5-8 minutes until edges crisp.",
+      "Serve crispy carnitas inside warm corn tortillas with onion and cilantro."
+    ],
+    "rating": {
+      "rating": 4.9,
+      "ratingCount": 1390
+    }
+  },
+  {
+    "name": "Italian Caprese Salad",
+    "description": "Simple summer salad of fresh thick mozzarella slices, ripe tomatoes, and sweet basil drizzled with balsamic glaze.",
+    "duration": "10m",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999",
+    "level": "EASY",
+    "ingredients": [
+      "3 ripe Heirloom tomatoes sliced",
+      "250g Fresh Mozzarella sliced",
+      "Fresh basil leaves",
+      "2 tbsp Extra virgin olive oil",
+      "1 tbsp Thick balsamic glaze",
+      "Flaky sea salt and black pepper"
+    ],
+    "instruction": [
+      "Alternate slices of fresh tomato and fresh mozzarella on a serving platter.",
+      "Tuck fresh whole basil leaves between the tomato and cheese slices.",
+      "Drizzle generously with extra virgin olive oil and balsamic glaze.",
+      "Season with flaky sea salt and cracked black pepper."
+    ],
+    "rating": {
+      "rating": 4.5,
+      "ratingCount": 420
+    }
+  },
+  {
+    "name": "Classic Eggs Benedict",
+    "description": "Toasted English muffin halves topped with Canadian bacon, poached eggs, and warm Hollandaise sauce.",
+    "duration": "30m",
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8",
+    "level": "MEDIUM",
+    "ingredients": [
+      "2 English muffins split and toasted",
+      "4 slices Canadian bacon",
+      "4 fresh Eggs poached",
+      "3 Egg yolks (for hollandaise)",
+      "1/2 cup Unsalted butter melted warm",
+      "1 tbsp Lemon juice",
+      "Pinch of Cayenne pepper"
+    ],
+    "instruction": [
+      "Whisk 3 egg yolks and lemon juice over simmering water pot until doubled in volume.",
+      "Slowly drizzle in melted butter while whisking vigorously to emulsify hollandaise sauce.",
+      "Poach 4 eggs in simmering water for 3 minutes.",
+      "Sear Canadian bacon in pan.",
+      "Top toasted muffin halves with bacon, poached egg, and cover with warm hollandaise sauce."
+    ],
+    "rating": {
+      "rating": 4.7,
+      "ratingCount": 860
+    }
+  },
+  {
+    "name": "Chicken Shawarma Plate",
+    "description": "Warm spiced marinated chicken slices served with yellow rice, garlic toum sauce, and pickled vegetables.",
+    "duration": "60m",
+    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd",
+    "level": "MEDIUM",
+    "ingredients": [
+      "600g Chicken thighs",
+      "1 tbsp Cumin",
+      "1 tbsp Coriander",
+      "1 tsp Cardamom",
+      "1 tsp Paprika",
+      "3 tbsp Olive oil",
+      "Garlic Toum sauce",
+      "Yellow turmeric rice"
+    ],
+    "instruction": [
+      "Marinate chicken thighs with olive oil, lemon juice, and spices for 1 hour.",
+      "Sear chicken in hot pan until charred and fully cooked.",
+      "Slice chicken into thin ribbons.",
+      "Plate sliced shawarma chicken next to yellow turmeric rice.",
+      "Serve with garlic toum dip and pickled turnip cucumbers."
+    ],
+    "rating": {
+      "rating": 4.8,
+      "ratingCount": 970
+    }
+  }
+]

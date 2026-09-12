@@ -11,6 +11,10 @@
 # Test binary, built with `go test -c`
 *.test
 
+# Compiled binaries from `go build ./cmd/...` (land next to go.mod, named after the package dir)
+/api/api
+/api/seed
+
 # Code coverage profiles and other test artifacts
 *.out
 coverage.*
