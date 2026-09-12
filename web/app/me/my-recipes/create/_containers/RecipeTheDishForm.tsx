@@ -1,6 +1,9 @@
 import { Textarea, TextField } from "@/components/bases";
+import { useFormContext } from "react-hook-form";
 
 const RecipeTheDishForm = () => {
+  const { register } = useFormContext();
+
   return (
     <div className="bg-white p-5 mt-4">
       <p className="wongnok-text-h3">The Dish</p>
@@ -9,13 +12,13 @@ const RecipeTheDishForm = () => {
       </p>
       <div className="flex flex-col gap-4 mt-4">
         <TextField
-          name={"name"}
+          {...register("name")}
           label={"Menu Name"}
           placeholder={"e.g. Thai basil chicken with a crisp fried egg"}
           required
         />
         <Textarea
-          name={"description"}
+          {...register("description")}
           label={"Menu Description"}
           placeholder={
             "Two or three sentences — what it tastes like, when you cook it, any shortcut you love."
@@ -23,7 +26,7 @@ const RecipeTheDishForm = () => {
           required
         />
         <TextField
-          name={"imageUrl"}
+          {...register("imageUrl")}
           label={"Image URL"}
           placeholder={"https://…/my-dish.jpg"}
           helperText={"Paste a link to a photo — landscape works best."}

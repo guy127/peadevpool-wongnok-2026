@@ -5,22 +5,29 @@ import RecipeTheDishForm from "./_containers/RecipeTheDishForm";
 import RecipeEffortForm from "./_containers/RecipeEffortForm";
 import RecipeIngredientForm from "./_containers/RecipeIngredientForm";
 import RecipeInstructionForm from "./_containers/RecipeInstructionForm";
+import { FormProvider, useForm } from "react-hook-form";
 
 const RecipeCreationPage = () => {
-  const handleSubmit = () => {
-    console.log("SUBMITTED");
+  const methods = useForm({
+    defaultValues: { time: "JUST_MINUTES" },
+  });
+
+  const handleSubmit = (data: unknown) => {
+    console.log("SUBMITTED", data);
   };
 
   return (
     <div className="px-4 py-8">
       <h1 className="wongnok-text-h2">Create Recipe</h1>
-      <form onSubmit={handleSubmit}>
-        <RecipeTheDishForm />
-        <RecipeEffortForm />
-        <RecipeIngredientForm />
-        <RecipeInstructionForm />
-        <Button type="submit">Submit</Button>
-      </form>
+      <FormProvider {...methods}>
+        <form onSubmit={methods.handleSubmit(handleSubmit)}>
+          <RecipeTheDishForm />
+          <RecipeEffortForm />
+          <RecipeIngredientForm />
+          <RecipeInstructionForm />
+          <Button type="submit">Submit</Button>
+        </form>
+      </FormProvider>
     </div>
   );
 };
