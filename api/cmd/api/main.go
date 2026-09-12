@@ -11,7 +11,6 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	"time"
 	"wongnok/internal/auth"
 	"wongnok/internal/config"
 	"wongnok/internal/middleware"
@@ -35,6 +34,10 @@ import (
 //	@host			localhost:8080
 //	@BasePath		/api/v1
 //	@schemas		http https
+
+// devUserUID คือ "sub" ของ dev@pea.co.th ใน Keycloak realm "pea"
+// ต้องตรงกับ seedUserUID ใน cmd/seed/main.go (ใช้กับ middleware.DevAuth เท่านั้น)
+const devUserUID = "326e938b-8d26-4bed-ac0b-a365510175a7"
 
 // @securityDefinitions.apikey	BearerAuth
 // @in							header
@@ -124,15 +127,20 @@ func run() error {
 	authGroup.POST("/logout", authHandler.Logout)
 	authGroup.POST("/refresh-token", authHandler.RefreshToken)
 
+	// Auth guard
+	// TODO: เอา DevAuth ออกแล้วสลับกลับไปใช้ middleware.JWT ก่อน merge
+	// authGuard := middleware.JWT(oidcVerifer, userService)
+	authGuard := middleware.DevAuth(userService, devUserUID)
+
 	// User resource
 	userGroup := v1.Group("/users")
-	userGroup.Use(middleware.JWT(oidcVerifer, userService))
+	userGroup.Use(authGuard)
 	userGroup.GET("/:id", userHandler.GetUser)
 	userGroup.PUT("/:id", userHandler.UpdateUser)
 
 	// Recipe resource
 	recipeGroup := v1.Group("/recipes")
-	recipeGroup.Use(middleware.JWT(oidcVerifer, userService))
+	recipeGroup.Use(authGuard)
 	recipeGroup.POST("", recipeHandler.Create)
 	recipeGroup.GET("", recipeHandler.GetRecipes)
 	recipeGroup.GET("/:id", recipeHandler.GetRecipe)
