@@ -1,8 +1,15 @@
 import { Button, TextField } from "@/components/bases";
+import { RecipeCreationFormValues } from "@/types/FormValues/recipeCreationForm";
 import { XIcon } from "lucide-react";
 import { ChangeEvent, useState } from "react";
+import { useFieldArray, useFormContext } from "react-hook-form";
 
 const RecipeIngredientForm = () => {
+  const { control } = useFormContext<RecipeCreationFormValues>();
+  const { fields, append, remove } = useFieldArray({
+    name: "ingredients",
+    control: control,
+  });
   const [ingredients, setIngredients] = useState<string[]>([""]);
 
   const handleAddIngredient = () => {
@@ -34,8 +41,8 @@ const RecipeIngredientForm = () => {
         <p className="wongnok-text-body text-muted-foreground">
           {`One per line, with the amount.`}
         </p>
-        {ingredients.map((ingredient, index) => (
-          <div key={index} className="flex items-center gap-4 mt-6">
+        {fields.map((field, index) => (
+          <div key={field.id} className="flex items-center gap-4 mt-6">
             <div className="p-2 w-6 h-6 wongnok-text-xs font-bold bg-primary-subtle text-primary relative rounded-4xl">
               <p className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 {index + 1}
@@ -45,7 +52,7 @@ const RecipeIngredientForm = () => {
               name={`ingredient-${index + 1}`}
               placeholder={"e.g. 2 tbsp fish sauce"}
               className="w-full"
-              value={ingredient}
+              value={field?.description ?? ""}
               onChange={(event) => handleIngredientChange(event, index)}
             />
             <Button

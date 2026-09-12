@@ -6,9 +6,10 @@ import RecipeEffortForm from "./_containers/RecipeEffortForm";
 import RecipeIngredientForm from "./_containers/RecipeIngredientForm";
 import RecipeInstructionForm from "./_containers/RecipeInstructionForm";
 import { FormProvider, useForm } from "react-hook-form";
+import { RecipeCreationFormValues } from "@/types/FormValues/recipeCreationForm";
 
 const RecipeCreationPage = () => {
-  const methods = useForm({
+  const methods = useForm<RecipeCreationFormValues>({
     defaultValues: { time: "JUST_MINUTES" },
   });
 
@@ -19,6 +20,7 @@ const RecipeCreationPage = () => {
   return (
     <div className="px-4 py-8">
       <h1 className="wongnok-text-h2">Create Recipe</h1>
+      <p>description </p>
       <FormProvider {...methods}>
         <form onSubmit={methods.handleSubmit(handleSubmit)}>
           <RecipeTheDishForm />
