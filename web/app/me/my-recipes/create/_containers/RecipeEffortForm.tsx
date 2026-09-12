@@ -33,14 +33,13 @@ const RecipeEffortForm = () => {
           <div className={"flex-1 shrink-0"}>
             <Controller
               name="time"
-              // defaultValue={"JUST_MINUTES"}
               control={control}
-              render={(fields) => (
+              render={({ field }) => (
                 <RadioGroup
                   label={"Time to Make"}
                   variant={"outlined"}
                   className={"grid grid-cols-2"}
-                  {...fields.field}
+                  {...field}
                   required
                 >
                   <Radio label={"5 - 10 mins"} value={"JUST_MINUTES"} />

@@ -5,11 +5,13 @@ import { Footer, Navbar, type NavbarUser } from "@/containers";
 
 const ibmPlexSans = IBM_Plex_Sans({
   variable: "--font-ibm-plex-sans",
+  subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
 });
 
 const ibmPlexSansThai = IBM_Plex_Sans_Thai({
   variable: "--font-ibm-plex-sans-thai",
+  subsets: ["latin", "thai"],
   weight: ["300", "400", "500", "600", "700"],
 });
 
